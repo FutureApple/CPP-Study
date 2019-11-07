@@ -3,8 +3,7 @@
 #include<iomanip>
 #include<bits/stdc++.h>
 using namespace std;
-int main()
-{
+int main(){
     int a,b,c;
     cin>>a>>b>>c;
     printf("%8d ",a);
