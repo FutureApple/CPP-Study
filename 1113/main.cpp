@@ -8,4 +8,4 @@ int main()
   c = a/b;
   cout>>c>>endl;
   return 0;
-}
+
